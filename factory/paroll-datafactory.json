@@ -1,0 +1,9 @@
+{
+	"name": "paroll-datafactory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee532aa5-4655-4610-908e-f96fb02a01e9",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
